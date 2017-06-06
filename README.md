@@ -1,4 +1,4 @@
-#Superstitious Pidgeons Trainer
+# Superstitious Pidgeons Trainer
 
 Pidgeons are smart enough to remember what they did when they got their reward so they are repeating their actions in order to get rewarded again.
 
